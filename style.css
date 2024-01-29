@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+.raff66 {
+    box-shadow: 5px 15px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+a {
+    cursor: pointer;
+}
